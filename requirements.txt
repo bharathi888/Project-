@@ -1,0 +1,11 @@
+software requirements
+Jupyter notebook
+pandas libraries
+pandas
+matplotlib
+scikit-learn
+installation
+install required libraries
+pip install pandas
+pip install matplotlib
+pip install scikit-learn
